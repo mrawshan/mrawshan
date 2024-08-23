@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rawshan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Frontend dev
 - 📫 How to reach me: codewithrawshan@gmail.com
 
